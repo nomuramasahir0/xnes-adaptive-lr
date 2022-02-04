@@ -12,6 +12,7 @@ You can build the same environment by running the following commands:
 $ git clone git@github.com:nomuramasahir0/xnes_adaptive_lr.git
 
 # build the environment with poetry
+$ cd xnes_adaptive_lr
 $ poetry install
 
 # run the experiment
