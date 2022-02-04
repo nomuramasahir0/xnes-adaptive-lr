@@ -9,7 +9,7 @@ You can build the same environment by running the following commands:
 
 ```bash
 # clone repository
-$ git@github.com:nomuramasahir0/xnes_adaptive_lr.git
+$ git clone git@github.com:nomuramasahir0/xnes_adaptive_lr.git
 
 # build the environment with poetry
 $ poetry install
