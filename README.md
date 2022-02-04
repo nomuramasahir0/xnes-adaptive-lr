@@ -15,7 +15,7 @@ $ git@github.com:nomuramasahir0/xnes_adaptive_lr.git
 $ poetry install
 
 # run the experiment
-$ poetry run python main.py
+$ poetry run python main.py sphere
 ```
 
 

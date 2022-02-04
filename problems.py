@@ -1,17 +1,8 @@
 import numpy as np
 
 
-def random(_):
-    return np.random.random()
-
-
 def sphere(x):
     return np.sum(x ** 2)
-
-
-def cigar(x):
-    n = len(x)
-    return x[0] ** 2 + 1e6 * np.sum(x[1:n] ** 2)
 
 
 def ellipsoid(x):
@@ -45,8 +36,6 @@ def bohachevsky(x):
 def get_problem(problem):
     if problem == "sphere":
         obj_func = sphere
-    elif problem == "random":
-        obj_func = random
     elif problem == "ellipsoid":
         obj_func = ellipsoid
     elif problem == "rastrigin":
