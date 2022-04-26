@@ -24,10 +24,12 @@ $ poetry run python main.py sphere
 If you find this code useful in your research then please cite:
 
 ```bibtex
-@article{nomura2021towards,
+@inproceedings{nomura2022towards,
   title={Towards a Principled Learning Rate Adaptation for Natural Evolution Strategies},
   author={Nomura, Masahiro and Ono, Isao},
-  journal={arXiv preprint arXiv:2112.10680},
-  year={2021}
+  booktitle={International Conference on the Applications of Evolutionary Computation (Part of EvoStar)},
+  pages={721--737},
+  year={2022},
+  organization={Springer}
 }
 ```
