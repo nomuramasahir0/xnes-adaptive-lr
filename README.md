@@ -1,4 +1,4 @@
-## Towards a Principled Learning Rate Adaptation for Natural Evolution Strategies
+## Towards a Principled Learning Rate Adaptation for Natural Evolution Strategies [[slide]](evostar_slide.pdf)
 
 This repository contains the code for the paper "[Towards a Principled Learning Rate Adaptation for Natural Evolution Strategies](https://arxiv.org/abs/2112.10680)".
 Please e-mail at masahironomura5325@gmail.com if you have any issue.
